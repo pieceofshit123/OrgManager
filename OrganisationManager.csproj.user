@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AddingDataForms\NewAvProductForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddingDataForms\NewEmloyeeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddingDataForms\NewProductTypeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddingDataForms\NewProviderForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddingDataForms\NewSoldProductForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddingDataForms\NewSupProductForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddingDataForms\ViewEmployeeTypeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CustomersViewForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainMenuForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddingDataForms\NewCustomerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NewOrderForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NewOutletForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NewRequestForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NewSectionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NewShoppingRoomForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OrdersViewForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OutletDataForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewForms\AvProductViewForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewForms\EmployeeViewForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewForms\ProviderViewForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewForms\SectionsAndShopRoomVIewForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewForms\SoldProductViewForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
